@@ -1,0 +1,3 @@
+[submodule "external/cmake-arm-embedded"]
+	path = external/cmake-arm-embedded
+	url = https://github.com/tarotene/cmake-arm-embedded
